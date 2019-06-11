@@ -32,7 +32,7 @@ MANIFEST
 /scripts/dropboxCredentials.py
 /scripts/images/
 /scripts/cache/
-data/extracted/
+/data/extracted/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
